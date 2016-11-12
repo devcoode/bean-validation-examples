@@ -1,5 +1,7 @@
 package example.multipleviolation;
 
+import org.hibernate.validator.constraintvalidation.HibernateConstraintValidatorContext;
+
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
