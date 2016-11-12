@@ -1,6 +1,5 @@
 package example.classlevel;
 
-import example.classlevel.SomeNumbers;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
